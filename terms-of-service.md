@@ -81,7 +81,7 @@ These terms are governed by the laws of Turkey.
 
 ### 12. Contact
 
-For questions about these terms: support@novella-app.com
+For questions about these terms: support@novellastories.app
 
 ---
 
@@ -157,7 +157,7 @@ Bu koşullar Türkiye yasalarına tabidir.
 
 ### 12. İletişim
 
-Bu koşullar hakkında sorularınız için: support@novella-app.com
+Bu koşullar hakkında sorularınız için: support@novellastories.app
 
 ---
 

@@ -15,7 +15,7 @@ title: Support - Novella
 
 Have questions, feedback, or need help? We're here for you!
 
-**Email:** support@novella-app.com
+**Email:** support@novellastories.app
 
 We typically respond within 24-48 hours.
 
@@ -85,7 +85,7 @@ A: Make sure:
 
 ### Report a Bug
 
-Found a bug? Please email us at **support@novella-app.com** with:
+Found a bug? Please email us at **support@novellastories.app** with:
 - Description of the problem
 - Steps to reproduce it
 - Your device model and iOS version
@@ -95,7 +95,7 @@ Found a bug? Please email us at **support@novella-app.com** with:
 
 ### Feature Requests
 
-Have an idea to make Novella better? We'd love to hear it! Email us at **support@novella-app.com** with the subject "Feature Request".
+Have an idea to make Novella better? We'd love to hear it! Email us at **support@novellastories.app** with the subject "Feature Request".
 
 ---
 
@@ -105,7 +105,7 @@ Have an idea to make Novella better? We'd love to hear it! Email us at **support
 
 Sorularınız, geri bildirimleriniz veya yardıma mı ihtiyacınız var? Sizin için buradayız!
 
-**E-posta:** support@novella-app.com
+**E-posta:** support@novellastories.app
 
 Genellikle 24-48 saat içinde yanıt veriyoruz.
 
@@ -175,7 +175,7 @@ C: Şunlardan emin olun:
 
 ### Hata Bildirimi
 
-Bir hata mı buldunuz? Lütfen şu bilgilerle **support@novella-app.com** adresine e-posta gönderin:
+Bir hata mı buldunuz? Lütfen şu bilgilerle **support@novellastories.app** adresine e-posta gönderin:
 - Sorunun açıklaması
 - Tekrarlama adımları
 - Cihaz modeliniz ve iOS sürümünüz
@@ -185,7 +185,7 @@ Bir hata mı buldunuz? Lütfen şu bilgilerle **support@novella-app.com** adresi
 
 ### Özellik İstekleri
 
-Novella'yı daha iyi yapacak bir fikriniz mi var? Duymak isteriz! "Özellik İsteği" konusuyla **support@novella-app.com** adresine e-posta gönderin.
+Novella'yı daha iyi yapacak bir fikriniz mi var? Duymak isteriz! "Özellik İsteği" konusuyla **support@novellastories.app** adresine e-posta gönderin.
 
 ---
 

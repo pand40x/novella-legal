@@ -63,7 +63,7 @@ You have the right to:
 - Export your data
 - Opt-out of analytics
 
-To exercise these rights, contact us at: **support@novella-app.com**
+To exercise these rights, contact us at: **support@novellastories.app**
 
 ### Children's Privacy
 
@@ -76,7 +76,7 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 ### Contact Us
 
 For privacy-related questions:
-- Email: support@novella-app.com
+- Email: support@novellastories.app
 
 ---
 
@@ -134,7 +134,7 @@ Aşağıdaki üçüncü taraf hizmetlerini kullanıyoruz:
 - Verilerinizi dışa aktarma
 - Analitikten çıkma
 
-Bu hakları kullanmak için bizimle iletişime geçin: **support@novella-app.com**
+Bu hakları kullanmak için bizimle iletişime geçin: **support@novellastories.app**
 
 ### Çocukların Gizliliği
 
@@ -147,7 +147,7 @@ Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Önemli değişiklikl
 ### İletişim
 
 Gizlilikle ilgili sorularınız için:
-- E-posta: support@novella-app.com
+- E-posta: support@novellastories.app
 
 ---
 
