@@ -1,0 +1,20 @@
+title: Novella Legal
+description: Legal documents for Novella - Language Learning App
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+
+# Site settings
+url: "https://pand40x.github.io"
+baseurl: "/novella-legal"
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Privacy Policy
+    url: /privacy-policy
+  - title: Terms of Service
+    url: /terms-of-service
+  - title: Support
+    url: /support
